@@ -10,8 +10,4 @@ Sample Datasets: Test your SQL implementations effortlessly using provided datas
 User-Friendly Navigation: Organized into folders based on SQL categories for easy navigation, ensuring quick access to relevant questions and solutions.
 Regular Updates: Stay ahead with continuous updates featuring new SQL questions and solutions, keeping pace with evolving interview trends and data analysis techniques.
 
-How to Use:
 
-Browse: Explore the repository to find SQL questions tailored to your interview preparation needs.
-Learn: Review detailed SQL solutions to grasp the underlying logic and approach for each problem.
-Practice: Utilize sample datasets to test your SQL implementations and refine your problem-solving skills.
